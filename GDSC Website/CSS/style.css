@@ -42,3 +42,14 @@
 .event-img{
     margin-top: 5rem;
 }
+.events-date{
+    background-color: #7d8185;
+    width: 35%;
+    color: #fff;
+    border-radius: 20px;
+    padding: 3px;
+    font-weight: bold;
+}
+.card{
+    box-shadow: 3px 3px 10px grey;
+}
